@@ -6,15 +6,15 @@
 
 - fun fact **i am very stupid**
 
-### Profile Views
+### profile views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh8104&label=Profile%20views&color=0e75b6&style=flat" alt="ansh8104" /> </p>
 
-### Stats
+### stats
 ![stat1](https://github-readme-streak-stats.herokuapp.com?user=ansh8104&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 ![stat2](https://github-readme-stats.vercel.app/api?username=ansh8104&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
 
-### Discord Status
+### discord status
 [![discordprofile](https://lanyard.cnrad.dev/api/933571572386652170)](https://discord.com/users/933571572386652170)
 
-### Where You Can Find Me
+### contact me
 [![discord](https://img.shields.io/badge/discord-@anshwho-8A2BE2?style=flat-square)](https://discord.com)
