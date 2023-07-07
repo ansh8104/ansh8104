@@ -9,6 +9,10 @@
 ### Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh8104&label=Profile%20views&color=0e75b6&style=flat" alt="ansh8104" /> </p>
 
+### Stats
+![stat1](https://github-readme-streak-stats.herokuapp.com?user=ansh8104&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
+![stat2](https://github-readme-stats.vercel.app/api?username=ansh8104&theme=dark&show_icons=true&locale=en&layout=compact&hide_border=true)
+
 ### Discord Status
 [![discordprofile](https://lanyard.cnrad.dev/api/933571572386652170)](https://discord.com/users/933571572386652170)
 
