@@ -17,4 +17,4 @@
 [![discordprofile](https://lanyard.cnrad.dev/api/933571572386652170)](https://discord.com/users/933571572386652170)
 
 ### contact me
-[![discord](https://img.shields.io/badge/discord-@anshwho-8A2BE2?style=flat-square)](https://discord.com)
+[![discord](https://img.shields.io/badge/discord-@zyyyo-8A2BE2?style=flat-square)](https://discord.com)
